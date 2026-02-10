@@ -1,0 +1,45 @@
+* {
+  color: #ffffff;
+  font-family: "JetBrainsMono Nerd Font", sans-serif;
+}
+
+window {
+  background-color: rgba(30, 30, 30, 0.6);
+  border-radius: 18px;
+  border: 1px solid rgba(255,255,255,0.08);
+}
+
+/* Caixa de busca */
+#input {
+  margin: 12px;
+  padding: 8px 12px;
+  border-radius: 12px;
+  background-color: rgba(50, 50, 50, 0.6);
+  color: #ffffff;
+}
+
+/* Placeholder / prompt */
+#input placeholder {
+  color: #cccccc;
+}
+
+/* Lista de apps */
+#entry {
+  padding: 10px;
+  margin: 4px 10px;
+  border-radius: 10px;
+  color: #ffffff;
+}
+
+/* Item selecionado */
+#entry:selected {
+  background-color: rgba(255,255,255,0.15);
+  color: #ffffff;
+}
+
+/* Nome do app */
+#text {
+  color: #ffffff;
+}
+
+
