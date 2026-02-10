@@ -1,0 +1,6 @@
+show=drun
+width=35%
+lines=8
+prompt=Search
+location=center
+allow_markup=true
