@@ -69,7 +69,8 @@ Estetica 1
 <li>wl-clipboard</li>
 <li>mako (notifications)</li>
 <li>hyprland</li>
-<li>dolphin (explorador de arquivos) </li>
+<li>thunar (explorador de arquivos) </li>
+<li>thunar-vcs-plugin</li>
 </ol>
 <ol>
 Estetica 2
