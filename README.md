@@ -59,14 +59,6 @@ Fundamentais
 
 </ol>
 <ol>
-Performance
-
-<li>cpupower</li>
-<li>zram-generator</li>
-<li>lm_sensors</li>
-<li>thermmald</li>
-</ol>
-<ol>
 Estetica 1
 <li>ly (display manager)</li>
 <li>swaylock (lock screen)</li>
@@ -86,6 +78,7 @@ Estetica 2
 <li>cava (visualizador de audio)</li>
 <li>cmatrix (codigos estetica)</li>
 <li>fastfetch (terminal famosinho)</li>
-<li>imagemagick (icone de apps mac os) </li>
-<li>papirus-icon-theme (icone de apps mac os) </li>
 </ol>
+
+
+"awk","basename","bash","brightnessctl","cat","cp","curl","cut","date","echo","git","grep","head","hyprctl","hypridle","hyprland","hyprlock","jq","loginctl","ls","mkdir","mv","nmcli","nvim","pamixer","pidof","playerctl","rm","sh","sleep","socat","stdbuf","systemctl","uptime","wget","wpctl","xargs"
